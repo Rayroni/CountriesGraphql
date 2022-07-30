@@ -5,7 +5,9 @@ Este foi um teste tecnico onde aprendi bastante sobre as diferenças de rest api
  integrar um cliente Apollo com o React facilita a vinculação de consultas do GraphQL e de acordo com a atualização dos componentes da interface do usuário com dados. 
  E tambem oque muitas vezes nos ajuda a evitar ter que escrever muito código ,e em algum momento, à medida que o aplicativo for dimensionado, poderá se tornar mais difícil de manter.o cliente Apollo oferece muito mais vantagens, como cache na memória e assim por diante.
  No começo desse projeto eu estava meio perdido por não saber como usar a logica para montar essa aplciação ,mas apesar do resultado final não ter sido o tão esperado eu fiquei feliz de ter concluido uns 80% da meta atual do projeto,mas acima de tudo ao terminar  o processo seletivo pretendo ainda terminar esse projeto e aprender mais.
-
+ 
+ 
+ OBS:Tive alguns problemas na adição dos emojis que por algum a caso não estão funcionando
 
 
 
