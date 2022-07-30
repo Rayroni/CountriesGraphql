@@ -1,10 +1,36 @@
-# Getting Started with Create React App
+# Countries Api com Graphql
+⚠️Talvez não tão perfeito ainda
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este foi um teste tecnico onde aprendi bastante sobre as diferenças de rest api e o uso do graphql e como ele pode ser bastante eficiente e economico ,como em um cenario onde a aplicação esteja em uma nuvem como AWS onde o sistema e Pay per use ,trafegar dados que voce não esta usando e como jogar dinheiro fora. oque se da o nome de Overfetching.E as dependencias do projeto como o Apollo Client ajuda no uso de uma API Graphql no frontend de uma aplicação , e ele se integra bem com estruturas de front-end populares como React, Angular, Vue e assim por diante. Uma das coisas que eu mais gostei ,conhecendo o Graphql e estudando sobre ele e que
+ integrar um cliente Apollo com o React facilita a vinculação de consultas do GraphQL e de acordo com a atualização dos componentes da interface do usuário com dados. 
+ E tambem oque muitas vezes nos ajuda a evitar ter que escrever muito código ,e em algum momento, à medida que o aplicativo for dimensionado, poderá se tornar mais difícil de manter.o cliente Apollo oferece muito mais vantagens, como cache na memória e assim por diante.
+ No começo desse projeto eu estava meio perdido por não saber como usar a logica para montar essa aplciação ,mas apesar do resultado final não ter sido o tão esperado eu fiquei feliz de ter concluido uns 80% da meta atual do projeto,mas acima de tudo ao terminar  o processo seletivo pretendo ainda terminar esse projeto e aprender mais.
 
-## Available Scripts
 
-In the project directory, you can run:
+
+
+ 
+>Status: Faltando algumas adições⚠️
+
+<h3> Mais sobre o Projeto<h3>
+
+<img src="https://media.discordapp.net/attachments/914344565073412126/1003048477904879687/Countries.JPG?width=1354&height=676"
+     alt="DataTable">
+
+<h2>Tecnologias Usada:<h2>
+ <li>React Js</li>
+ <li>Html </li>
+  <li>CSS </li>
+  <li>Graphql</li>
+ <li>API:https://countries.trevorblades.com  </li>
+ 
+  
+ <h3> ℹ️ Como Rodar :<h3> 
+<li>Clone o repositorio</li>
+<li>instale as dependencias </li>
+<li>npm add apollo-boost</li> 
+<li>npm graphql</li>
+<li>npm react-apollo</li>
 
 ### `npm start`
 
@@ -15,56 +41,3 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
